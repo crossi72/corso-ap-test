@@ -1,2 +1,3 @@
-questo documento è sotto controllo di versione
+questo documento è in controllo di versione
 ho aggiunto una riga
+questa riga serve a vedere le differenze fra versioni
